@@ -23,8 +23,7 @@ A responsive e-commerce website for a local flower shop called Blooming Petals. 
 - Added SEO meta tags and responsive improvements
 
 ## Live Website Link
-[Will add Netlify link here after deployment]
-
+https://calm-donut-52479e.netlify.app/
 ## GitHub Repository
 https://github.com/nemlethabo457-rgb/Blooming-Petals
 
