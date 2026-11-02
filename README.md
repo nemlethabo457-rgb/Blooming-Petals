@@ -1,6 +1,6 @@
 # Blooming Petals - Flower Shop Website
-Student Name: Nemile Thabo [Your Surname]
-Student Number: [Add yours]
+Student Name: Lethabo Nemaranzhe
+Student Number: ST10529996
 Module: WEDE5020
 
 ## Project Overview
